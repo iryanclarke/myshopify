@@ -1,0 +1,222 @@
+/*------------------------------*\
+
+	TABLE OF CONTENTS
+
+	x. SASS ELEMENTS (not shown in CSS)
+
+	0. HACKS AND OVERRIDES
+
+	1. CONTENT
+
+\*------------------------------*/
+/*--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~--*\
+
+    NOTE: 
+
+\*--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~--*/
+/*------------------------------------*\
+
+    x. SASS ELEMENTS
+
+\*------------------------------------*/
+/* Dark: 0A3A4A
+Dark Accent: 196674
+Midtone: 33A6B2
+Accent: 9AC836
+Highlight: D0E64B */
+/*--------------------------------------*\
+
+    Default All Elements
+
+\*--------------------------------------*/
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline; }
+
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+  display: block; }
+
+blockquote, q {
+  quotes: none; }
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: '';
+  content: none; }
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0; }
+
+/*----------------------------------------------------------*\
+
+    0. HACKS, DEFAULTS & OVERRIDES 
+
+\*----------------------------------------------------------*/
+/*------------------- Extended base styles  ---------------------*/
+html {
+  overflow-y: scroll;
+  /* force scrollbar in non-IE */ }
+
+body {
+  line-height: 1;
+  background-repeat: no-repeat;
+  overflow-x: hidden;
+  line-height: 1.5;
+  background-color: white;
+  font-size: 14px;
+  font-family: 'Lato', sans-serif; }
+
+img {
+  display: block; }
+
+p {
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
+  font-size: 20px;
+  margin: 1em 0;
+  color: #000;
+  width: 100%; }
+
+p1 {
+  margin: 1em 0;
+  color: #FFF; }
+
+li {
+  color: #FFF; }
+
+h1 {
+  margin: 0 0 0 0;
+  font-family: 'Lato', sans-serif;
+  font-size: 150px;
+  font-weight: 400;
+  color: black; }
+
+h2 {
+  margin: 0 0 25px 0;
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 65px;
+  color: black; }
+
+h3 {
+  margin: 0 0 0 0;
+  font-size: 18px;
+  font-family: 'Lato', sans-serif;
+  font-weight: bold;
+  color: #333; }
+
+/*----------------------------------------------------------*\
+
+    1. CONTENT STYLING
+
+\*----------------------------------------------------------*/
+.primary {
+  z-index: 8;
+  position: fixed;
+  top: 30%;
+  left: 30px;
+  margin-top: -40px; }
+  .primary li {
+    position: relative;
+    height: 50px; }
+  .primary a {
+    display: block;
+    width: 40px;
+    height: 40px;
+    text-indent: -9999px;
+    /**************** EDIT HERE TO ADD SOME SHIT ONTOP OF THE IMAGES ************/
+    background: transparent url("../img/nav-dot-test.png") 0px 0px no-repeat; }
+  .primary a:hover, .primary nav#primary a.active {
+    background: transparent url("../img/nav-dot-test.png") 0px -58px no-repeat; }
+  .primary h1 {
+    position: absolute;
+    font-size: 15px;
+    left: 35px;
+    top: 0px;
+    display: none;
+    padding: 4px 20px 4px 7px;
+    color: #E9EBEA;
+    white-space: nowrap;
+    background: transparent url("../img/nav-arrow.png") 100% 50% no-repeat; }
+
+.wrapper {
+  /* content */ }
+  .wrapper .content {
+    max-width: 1280px;
+    position: relative;
+    margin: 0 auto;
+    line-height: 1.7; }
+    .wrapper .content .label {
+      padding-top: 70px; }
+      .wrapper .content .label h2 {
+        float: right;
+        padding-right: 150px; }
+
+/*--------------- Section colours-----------------*/
+.row {
+  width: 100%; }
+
+.section1 {
+  background-color: #e0e0e0; }
+
+.section2 {
+  background-color: white; }
+
+.section3 {
+  background-color: #e0e0e0; }
+
+.section4 {
+  background-color: white; }
+
+.section5 {
+  background-color: #e0e0e0; }
+
+/*----------------------------------------------------------*\
+
+    4. MEDIA QUERIES
+
+\*----------------------------------------------------------*/
+/* MOBILE */
+@media only screen and (max-width: 40em) {
+  /* content */
+  .content {
+    padding: 20px 10px 10px 10px;
+    min-width: 0px; }
+
+  main {
+    width: 100%; } }
+/* MEDIUM SCREENS  */
+@media only screen and (min-width: 40.063em) and (max-width: 64em) {
+  /* content */
+  .content {
+    padding: 20px 10px 10px 10px;
+    min-width: 0px; }
+
+  main {
+    width: 100%; } }
+/* LARGE SCREENS AND UP*/
+@media only screen and (min-width: 64.063em) {
+  /* content */
+  .content {
+    min-width: 640px;
+    padding: 20px 70px 10px 70px; } }
