@@ -2,56 +2,24 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
   <head>
       <meta charset="utf-8" />
-      <meta id="Viewport" name="viewport" width="initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+      <!-- <meta id="Viewport" name="viewport" width="initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no"> -->
       <title>Shopify - Only the best place to work</title>
 
       <!-- jQuery and js --> 
-      <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js" type="text/javascript"></script>
-      <script src="js/jquery.queryloader2.js"></script>
+      <script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
+      <script src="js/jquery.queryloader2.js"></script> 
       <script src="js/include.js"></script>
+      <script type="text/javascript" src="js/jquery.onepage-scroll.min.js"></script>
       <!-- Stylesheets-->
-      <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic' rel='stylesheet' type='text/css'>
+      <link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic' type='text/css'>
       <link rel="stylesheet" media="all" href="css/pages.css" />
       <link rel="shortcut icon" href="img/favicon.ico">
+      <link rel='stylesheet' href='css/onepage-scroll.css' type='text/css'>
   </head>
 
   <body>
-
-    <nav class="primary">
-            <ul id ="scroll">
-                <li>
-                    <h1>Welcome</h1>
-                    <a class="welcome" href="#welcome" data-code="0">View</a>
-                </li>
-                <li>
-                    <h1>Sed eget</h1>
-                    <a class="step1" href="#step1" data-code=".section1">Step 1</a>
-                </li>
-                <li>
-                    <h1>Vivamus auctor</h1>
-                    <a class="step2" href="#step2" data-code=".section2">Step 2</a>
-                </li>
-                <li>
-                    <h1>Phasellus laoreet</h1>
-                    <a class="step3" href="#step3" data-code=".section3">View</a>
-                </li>
-                <li>
-                    <h1>Nulla sollicitudin</h1>
-                    <a class="step4" href="#step4" data-code=".section4">View</a>
-                </li>
-            </ul>
-        </nav>
-
-    <div class ="wrapper">
-        <div class="content">
-            <div class="label">
-                  <h2><span style="background-color:#006ba4;padding:10px">About me</span></h2>
-                  <p>&nbsp;</p>
-                  <div style="clear:both"></div>
-            </div>   
-       </div>  
-        
-        
+    <div class="main">
+      <section class="1">  
         <div class="row section1">
            <div class="content">
                 <h1>Hi,</h1>
@@ -63,7 +31,9 @@
                 <p>&nbsp;</p>
             </div> 
         </div>    
-        
+      </section>   
+
+      <section class="2"> 
         <div class="row section2">   
             <div class="content">
               <h3>What I love</h3>
@@ -76,7 +46,10 @@
                 <p>&nbsp;</p>
             </div>
         </div> 
+      </section>   
 
+
+      <section class="3"> 
          <div class="row section3">   
             <div class="content">
               <h3>What I love</h3>
@@ -89,8 +62,10 @@
                 <p>&nbsp;</p>
             </div>
         </div>    
+      </section>   
 
 
+      <section class="4"> 
          <div class="row section4">   
             <div class="content">
               <h3>What I love</h3>
@@ -103,7 +78,9 @@
                 <p>&nbsp;</p>
             </div>
         </div>    
+      </section>   
 
+      <section class="5"> 
          <div class="row section5">   
             <div class="content">
               <h3>What I love</h3>
@@ -116,8 +93,8 @@
                 <p>&nbsp;</p>
             </div>
         </div>    
-
-  </div>
+      </section>   
+    
 
   </body>
 </html>

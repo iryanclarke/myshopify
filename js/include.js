@@ -4,25 +4,12 @@ $(document).ready(function() {
 /************** Content Loader  *********************/
   $("body").queryLoader2();
 
-  $("a[data-code]").click(function(){
-    var val = $(this).data("code") ? $($(this).data("code")).offset().top - 70 : 0;
-    $('nav#primary a').removeClass('active');
-    $('html, body').animate({
-      scrollTop: val
-    },/* SPEED OF SCROLL */ 1000);
-  return false;
-  });
-  
-    
-    /* Show/hide dot lav labels on hover */
-    $('nav.primary a').hover(
-      function () {
-      $(this).prev('h1').show();
-    },
-    function () {
-      $(this).prev('h1').hide();
-    }
-    );
+  $(".main").onepage_scroll({
+        sectionContainer: "section",
+        responsiveFallback: 600,
+        loop: true,
+        pagination: true
+      });
 });
 
   // Viewport fixes
