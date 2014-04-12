@@ -161,42 +161,6 @@ $section5-color: #E0E0E0;
 \*----------------------------------------------------------*/
 
 
-.primary {
-	z-index: 8;
-	position: fixed;
-	top: 30%;
-	left: 30px;
-	margin-top: -40px;
-
-	li {
-		position: relative;
-		height: 50px;
-	}
-	a {
-		display: block;
-		width: 40px;
-		height: 40px;
-		text-indent: -9999px;  /**************** EDIT HERE TO ADD SOME SHIT ONTOP OF THE IMAGES ************/
-		background: transparent url('../img/nav-dot-test.png') 0px 0px no-repeat;
-	}
-	a:hover, nav#primary a.active {
-		background: transparent url('../img/nav-dot-test.png') 0px -58px no-repeat;
-	}
-	h1 {
-		position: absolute;
-		font-size: 15px;
-		left: 35px;
-		top: 0px;
-		display: none;
-		padding: 4px 20px 4px 7px;;
-		color: #E9EBEA;
-		white-space: nowrap;
-		background: transparent url('../img/nav-arrow.png') 100% 50% no-repeat;
-	}
-}
-
-
-
 .wrapper{ 
 	/* content */
 	.content {
@@ -226,6 +190,10 @@ section {
 
 /*--------------- Section colours-----------------*/
 .row { width:100%; }
+.row:nth-child(even) {
+
+	
+}
 .section1{
 	background-color: $section1-color;
 }

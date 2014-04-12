@@ -130,35 +130,6 @@ h3 {
     1. CONTENT STYLING
 
 \*----------------------------------------------------------*/
-.primary {
-  z-index: 8;
-  position: fixed;
-  top: 30%;
-  left: 30px;
-  margin-top: -40px; }
-  .primary li {
-    position: relative;
-    height: 50px; }
-  .primary a {
-    display: block;
-    width: 40px;
-    height: 40px;
-    text-indent: -9999px;
-    /**************** EDIT HERE TO ADD SOME SHIT ONTOP OF THE IMAGES ************/
-    background: transparent url("../img/nav-dot-test.png") 0px 0px no-repeat; }
-  .primary a:hover, .primary nav#primary a.active {
-    background: transparent url("../img/nav-dot-test.png") 0px -58px no-repeat; }
-  .primary h1 {
-    position: absolute;
-    font-size: 15px;
-    left: 35px;
-    top: 0px;
-    display: none;
-    padding: 4px 20px 4px 7px;
-    color: #E9EBEA;
-    white-space: nowrap;
-    background: transparent url("../img/nav-arrow.png") 100% 50% no-repeat; }
-
 .wrapper {
   /* content */ }
   .wrapper .content {
