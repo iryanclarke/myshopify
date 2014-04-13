@@ -62,8 +62,8 @@
             </div>   
             <div class="content right">
               <h1>So,</h1>
-              <h2>you might ask; Why do I want to work at Shopify?</h2>
-              <p>Keep scrolling and you'll find out!</p>
+              <h2>you might ask; why do I want to work at Shopify?</h2>
+              <p>That's a good question, and i'll tell you why :)</p>
               <p>&nbsp;</p>
               <p>&nbsp;</p>
               <p>&nbsp;</p>
@@ -77,10 +77,9 @@
       <section class="3"> 
          <div class="row section3">   
              <div class="content left">
-                <h1>Hi,</h1>
-                <h2>I'm Ian!&nbsp;&nbsp;&nbsp;(That's me! --->)</h2>
-                <p>I'm a Front-End Web developer with a passion for clean, efficient code and an eye for design</p>
-                <p>&nbsp;</p>
+                <h2>I want to be part of an awesome team!</h2>
+                <p>A team that cares as much as I do about the work they do on a daily basis. To me, web development means more than just a day job and what pays the bills: it's what I love to do!</p>
+                <p>Being around people who also care about their jobs gives me drive to constantly better myself and my professional skills.</p>
                 <p>&nbsp;</p>
                 <p>&nbsp;</p>
                 <p>&nbsp;</p>
@@ -99,7 +98,7 @@
                 <img src="img/why-stickman.png">
             </div>   
             <div class="content right">
-              <h1>So,</h1>
+              <h2>I </h2>
               <h2>You might ask: Why do I want to work at Shopify?</h2>
               <p>Keep scrolling and you'll find out!</p>
               <p>&nbsp;</p>
