@@ -6,9 +6,11 @@ $(document).ready(function() {
 
   $(".main").onepage_scroll({
         sectionContainer: "section",
+        animationTime: 1500,
         responsiveFallback: 600,
         loop: true,
-        pagination: true
+        pagination: true,
+        easing: "ease-in-out"
       });
 });
 
