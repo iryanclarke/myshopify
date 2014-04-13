@@ -145,19 +145,13 @@ section {
 		position: relative;
 		float: left;
 		top: 50%;
+		width: 40%;
 		-webkit-transform: translate(0%, -50%);
 		-ms-transform: translate(0%, -50%);
 		transform: translate(0%, -50%);
-		.label {
-			padding-top: 70px;
-			h2 {
-				float: right;
-				padding-right: 150px;
-			}	
-		}
 	}
-	.left {
-		margin: 0px 100px;
+	.left, .right {
+		margin-left: 100px;
 	}
 	.img {
 		position: relative;
@@ -310,10 +304,10 @@ body.disabled-onepage-scroll, .disabled-onepage-scroll .onepage-wrapper, html {
 /* Special case for adjusting image and content padding */
 @media only screen and (min-width: 1630px) {
 	.left {
-		margin: 0px 170px;
+		margin-left: 170px !important;
 	}
 	.right {
-		margin: 0px 170px;
+		margin-left: 170px !important;
 	}
 }
 
