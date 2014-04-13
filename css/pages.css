@@ -115,7 +115,6 @@ section {
   height: 100%;
   background: #3F5765; }
   section .content {
-    padding: 100px;
     position: relative;
     float: left;
     top: 50%;
@@ -127,8 +126,9 @@ section {
       section .content .label h2 {
         float: right;
         padding-right: 150px; }
+  section .left {
+    margin: 0px 100px; }
   section .img {
-    margin: 0px 170px;
     position: relative;
     float: left;
     top: 50%;
@@ -234,30 +234,13 @@ body.disabled-onepage-scroll, .disabled-onepage-scroll .onepage-wrapper, html {
 
 /*----------------------------------------------------------*\
 
-    4. MEDIA QUERIES
+    4. Media Queries
 
 \*----------------------------------------------------------*/
-/* MOBILE */
-@media only screen and (max-width: 40em) {
-  /* content */
-  .content {
-    padding: 20px 10px 10px 10px;
-    min-width: 0px; }
+/* Special case for adjusting image and content padding */
+@media only screen and (min-width: 1630px) {
+  .left {
+    margin: 0px 170px; }
 
-  main {
-    width: 100%; } }
-/* MEDIUM SCREENS  */
-@media only screen and (min-width: 40.063em) and (max-width: 64em) {
-  /* content */
-  .content {
-    padding: 20px 10px 10px 10px;
-    min-width: 0px; }
-
-  main {
-    width: 100%; } }
-/* LARGE SCREENS AND UP*/
-@media only screen and (min-width: 64.063em) {
-  /* content */
-  .content {
-    min-width: 640px;
-    padding: 20px 70px 10px 70px; } }
+  .right {
+    margin: 0px 170px; } }

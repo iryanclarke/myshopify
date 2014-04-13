@@ -39,7 +39,7 @@
     <div class="main">
       <section class="1">  
         <div class="row section1">
-           <div class="content">
+           <div class="content left">
                 <h1>Hi,</h1>
                 <h2>I'm Ian!&nbsp;&nbsp;&nbsp;(That's me! --->)</h2>
                 <p>I'm a Front-End Web developer with a passion for clean, efficient code and an eye for design</p>
@@ -48,7 +48,7 @@
                 <p>&nbsp;</p>
                 <p>&nbsp;</p>
             </div>
-            <div class="img">
+            <div class="img right">
                 <img src="img/intro-stickman.png">
             </div> 
             <div class="clear"></div>
@@ -57,12 +57,12 @@
 
       <section class="2"> 
         <div class="row section2"> 
-            <div class="img">
+            <div class="img left">
                 <img src="img/why-stickman.png">
             </div>   
-            <div class="content">
+            <div class="content right">
               <h1>So,</h1>
-              <h2>You might ask: Why do I want to work at Shopify?</h2>
+              <h2>you might ask; Why do I want to work at Shopify?</h2>
               <p>Keep scrolling and you'll find out!</p>
               <p>&nbsp;</p>
               <p>&nbsp;</p>
@@ -76,7 +76,7 @@
 
       <section class="3"> 
          <div class="row section3">   
-             <div class="content">
+             <div class="content left">
                 <h1>Hi,</h1>
                 <h2>I'm Ian!&nbsp;&nbsp;&nbsp;(That's me! --->)</h2>
                 <p>I'm a Front-End Web developer with a passion for clean, efficient code and an eye for design</p>
@@ -85,7 +85,7 @@
                 <p>&nbsp;</p>
                 <p>&nbsp;</p>
             </div>
-            <div class="img">
+            <div class="img right">
                 <img src="img/intro-stickman.png">
             </div> 
             <div class="clear"></div>
@@ -95,10 +95,10 @@
 
       <section class="4"> 
          <div class="row section4">   
-            <div class="img">
+            <div class="img left">
                 <img src="img/why-stickman.png">
             </div>   
-            <div class="content">
+            <div class="content right">
               <h1>So,</h1>
               <h2>You might ask: Why do I want to work at Shopify?</h2>
               <p>Keep scrolling and you'll find out!</p>
