@@ -67,7 +67,6 @@
               <p>&nbsp;</p>
               <p>&nbsp;</p>
               <p>&nbsp;</p>
-              <p>&nbsp;</p>
             </div>
             <div class="clear"></div>      
         </div> 
@@ -98,8 +97,7 @@
                 <img src="img/why-stickman.png">
             </div>   
             <div class="content right">
-              <h2>I </h2>
-              <h2>You might ask: Why do I want to work at Shopify?</h2>
+              <h2>I want to make Shopify the best</h2>
               <p>Keep scrolling and you'll find out!</p>
               <p>&nbsp;</p>
               <p>&nbsp;</p>
@@ -112,16 +110,18 @@
 
       <section class="5"> 
          <div class="row section5">   
-            <div class="content">
-              <h3>What I love</h3>
-                <p>Pellentesque egestas dictum porta. Pellentesque tempor, justo eu convallis placerat, nulla nibh venenatis metus, eget venenatis metus mi nec neque. Nunc sed hendrerit diam, ut varius ligula. Pellentesque suscipit dui eget interdum consectetur. Nullam tortor ligula, lobortis quis dictum et, bibendum ut enim. Aliquam est metus, posuere et sapien id, condimentum mollis tortor. Suspendisse vulputate viverra justo. Donec in ultricies magna. Aenean pretium bibendum semper. Pellentesque eget nisi lobortis, condimentum eros eget, ullamcorper nisl. Sed nec felis id lectus bibendum ornare.</p>
-                <p>Nulla viverra, erat sit amet pellentesque facilisis, urna ligula consectetur eros, at laoreet purus sem non dolor. Proin suscipit est aliquet velit pulvinar, vel vulputate erat mollis. Duis nec lectus ultricies, volutpat enim dictum, ullamcorper tortor. Fusce vel est non ipsum ultricies cursus. Sed id risus non lacus dapibus tempor a sed odio. Donec non rhoncus tortor. Donec pharetra ut dolor eu accumsan. Nunc mi lacus, vulputate vitae placerat id, aliquam ut mi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi. Aenean tortor erat, pharetra in lorem sed, ultrices pellentesque est. Vivamus faucibus, erat eleifend dapibus commodo, sem odio pharetra augue, at tempor quam purus quis leo. Aliquam sed est vitae leo cursus mattis. Proin vel nulla sit amet augue posuere rhoncus.</p>
-                <p>Content is coming soon! :)</p>
-                <p>&nbsp;</p>
-                <p>&nbsp;</p>
-                <p>&nbsp;</p>
-                <p>&nbsp;</p>
+            <div class="img left">
+                <img src="img/why-stickman.png">
+            </div>   
+            <div class="content right">
+              <h2>I 112345</h2>
+              <p>Keep scrolling and you'll find out!</p>
+              <p>&nbsp;</p>
+              <p>&nbsp;</p>
+              <p>&nbsp;</p>
+              <p>&nbsp;</p>
             </div>
+            <div class="clear"></div>
         </div>    
       </section>   
     
