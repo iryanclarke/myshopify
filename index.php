@@ -102,7 +102,6 @@
               <p>&nbsp;</p>
               <p>&nbsp;</p>
               <p>&nbsp;</p>
-              <p>&nbsp;</p>
             </div>
             <div class="clear"></div>
         </div>    
@@ -116,7 +115,6 @@
             <div class="content right">
               <h2>I 112345</h2>
               <p>Keep scrolling and you'll find out!</p>
-              <p>&nbsp;</p>
               <p>&nbsp;</p>
               <p>&nbsp;</p>
               <p>&nbsp;</p>
