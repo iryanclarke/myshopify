@@ -303,11 +303,11 @@ body.disabled-onepage-scroll, .disabled-onepage-scroll .onepage-wrapper, html {
 
 /* Special case for adjusting image and content padding */
 @media only screen and (min-width: 1630px) {
-	.left {
-		margin-left: 170px !important;
+	.left, .right {
+		margin-left: 160px !important;
 	}
-	.right {
-		margin-left: 170px !important;
+	.section3 { 
+		.left, .right { margin-left: 120px !important; }
 	}
 }
 

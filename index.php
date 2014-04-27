@@ -108,17 +108,17 @@
       </section>   
 
       <section class="5"> 
-         <div class="row section5">   
-            <div class="img left">
-                <img src="img/why-stickman.png">
-            </div>   
-            <div class="content right">
+         <div class="row section5">  
+            <div class="content left">
               <h2>I want to make Shopify even better</h2>
               <p>Keep scrolling and you'll find out!</p>
               <p>&nbsp;</p>
               <p>&nbsp;</p>
               <p>&nbsp;</p>
-            </div>
+            </div> 
+            <div class="img right">
+                <img src="img/why-stickman.png">
+            </div>   
             <div class="clear"></div>
         </div>    
       </section>   
@@ -129,7 +129,7 @@
                 <img src="img/why-stickman.png">
             </div>   
             <div class="content right">
-              <h2>I want to make Shopify even better</h2>
+              <h2>Why am I a good fit for Shopify?</h2>
               <p>Keep scrolling and you'll find out!</p>
               <p>&nbsp;</p>
               <p>&nbsp;</p>
