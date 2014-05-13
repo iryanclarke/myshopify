@@ -44,9 +44,6 @@
                 <h2>I'm Ian!&nbsp;&nbsp;&nbsp;(That's me! --->)</h2>
                 <p>I'm a Front-End Web developer with a passion for clean, efficient code and an eye for design</p>
                 <p>&nbsp;</p>
-                <p>&nbsp;</p>
-                <p>&nbsp;</p>
-                <p>&nbsp;</p>
             </div>
             <div class="img right">
                 <img src="img/intro-stickman.png">
@@ -65,8 +62,6 @@
               <h2>you might ask; why do I want to work at Shopify?</h2>
               <p>That's a good question, and i'll tell you why :)</p>
               <p>&nbsp;</p>
-              <p>&nbsp;</p>
-              <p>&nbsp;</p>
             </div>
             <div class="clear"></div>      
         </div> 
@@ -80,11 +75,9 @@
                 <p>A team that cares as much as I do about the work they do on a daily basis. To me, web development means more than just a day job and what pays the bills: it's what I love to do!</p>
                 <p>Being around people who also care and love their jobs gives me drive to constantly better myself and my professional skills.</p>
                 <p>&nbsp;</p>
-                <p>&nbsp;</p>
-                <p>&nbsp;</p>
             </div>
             <div class="img right">
-                <img src="img/super-stickman.png">
+                <img src="img/super-stickmen-small.png">
             </div> 
             <div class="clear"></div>
         </div>    
@@ -94,13 +87,11 @@
       <section class="4"> 
          <div class="row section4">   
             <div class="img left">
-                <img src="img/why-stickman.png">
+                <img src="img/shopify-stickman.png">
             </div>   
             <div class="content right">
               <h2>Be part of an awesome work environment</h2>
               <p>Shopify's work atmosphere and offices promote the most efficient and enjoyable workplace possible! I've visited the Shopify HQ in Ottawa to attend JavaScript and Montly Web Developer meetups, and I have always been impressed at how creative and inspiring the space is.</p>
-              <p>&nbsp;</p>
-              <p>&nbsp;</p>
               <p>&nbsp;</p>
             </div>
             <div class="clear"></div>
@@ -113,8 +104,6 @@
               <h2>I want to make Shopify even better</h2>
               <p>Keep scrolling and you'll find out!</p>
               <p>&nbsp;</p>
-              <p>&nbsp;</p>
-              <p>&nbsp;</p>
             </div> 
             <div class="img right">
                 <img src="img/why-stickman.png">
@@ -124,15 +113,13 @@
       </section>   
 
       <section class="6"> 
-         <div class="row section5">   
+         <div class="row section6">   
             <div class="img left">
-                <img src="img/why-stickman.png">
+                <img src="img/stickman-shopify-awesomeness.png">
             </div>   
             <div class="content right">
               <h2>Why am I a good fit for Shopify?</h2>
-              <p>Keep scrolling and you'll find out!</p>
-              <p>&nbsp;</p>
-              <p>&nbsp;</p>
+              <p>I want to help Shopify grow even bigger</p>
               <p>&nbsp;</p>
             </div>
             <div class="clear"></div>
@@ -141,15 +128,13 @@
 
 
       <section class="5"> 
-         <div class="row section5">   
+         <div class="row section7">   
             <div class="img left">
                 <img src="img/why-stickman.png">
             </div>   
             <div class="content right">
               <h2>I want to make Shopify even better</h2>
               <p>Keep scrolling and you'll find out!</p>
-              <p>&nbsp;</p>
-              <p>&nbsp;</p>
               <p>&nbsp;</p>
             </div>
             <div class="clear"></div>

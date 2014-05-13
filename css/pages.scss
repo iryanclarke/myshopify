@@ -25,6 +25,8 @@ $section2-color: #BDD4DE;
 $section3-color: #EFEFEF;
 $section4-color: #BDD4DE;
 $section5-color: #EFEFEF;
+$section6-color: #BDD4DE;
+$section7-color: #EFEFEF;
 
 /*--------------------------------------*\
 
@@ -194,6 +196,12 @@ section {
 }
 .section5{
 	background-color: $section5-color;
+}
+.section6{
+	background-color: $section6-color;
+}
+.section7{
+	background-color: $section7-color;
 }
 
 
