@@ -106,7 +106,7 @@
               <p>&nbsp;</p>
             </div> 
             <div class="img right">
-                <img src="img/why-stickman.png">
+                <img src="img/super-shopify.png">
             </div>   
             <div class="clear"></div>
         </div>    
@@ -119,7 +119,8 @@
             </div>   
             <div class="content right">
               <h2>Why am I a good fit for Shopify?</h2>
-              <p>I want to help Shopify grow even bigger</p>
+              <p>I believe my creativity and passion for Web Development will fit right in with Shopify's culture and employees, and my desire to solve challenging problems will greatly benefit Shopify's employees and business!</p>
+              <p>I know that Shopify loves the creativity and energy from young, fresh minds and I love talking with fellow developers about what's hip and happening in the tech and web development world. I've had the experience to do so at a few web meetups! </p>
               <p>&nbsp;</p>
             </div>
             <div class="clear"></div>
@@ -127,7 +128,7 @@
       </section>  
 
 
-      <section class="5"> 
+      <section class="7"> 
          <div class="row section7">   
             <div class="img left">
                 <img src="img/why-stickman.png">
