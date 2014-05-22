@@ -105,6 +105,7 @@
               <h2>I want to make Shopify even better</h2>
               <p>Shopify is already growing at a huge rate, as I know you recently surpassed 100,000 online stores! </p>
               <p>I want to put my skills and love for web development toward making Shopify an even bigger, more successful company that is renound for everything they do. </p>
+              <p>I have some awesome idea's on how to improve Shopify, such as using <a href="http://usablica.github.io/intro.js/">Intro JS</a> to make some awesome walkthroughs of the Shopify admin panel!</p>
               <p>&nbsp;</p>
             </div> 
             <div class="img right">
