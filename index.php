@@ -42,7 +42,9 @@
            <div class="content left">
                 <h1>Hi,</h1>
                 <h2>I'm Ian!&nbsp;&nbsp;&nbsp;(That's me! --->)</h2>
-                <p>I'm a Front-End Web developer with a passion for clean, efficient code and an eye for design</p>
+                <h3>Here is a little bit about me:</h3>
+                <p>I'm a 20 year old Carleton University student who loves web development, illustration and speedy performance. I always like to keep things as simple as possible: simple, but effective! </p>
+                <p>I love working on projects with people and collaborating everyone's strengths to create incredible things.</p>
                 <p>&nbsp;</p>
             </div>
             <div class="img right">
@@ -51,6 +53,8 @@
             <div class="clear"></div>
         </div>    
       </section>   
+
+
 
       <section class="2"> 
         <div class="row section2"> 
