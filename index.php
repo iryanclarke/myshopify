@@ -139,7 +139,8 @@
       <section class="7"> 
          <div class="row section7"> 
             <div class="centered">
-              <h2>I hope you liked this website, and I encourage you to check out my <a href="http://www.iryanclarke.com/portfolio.php">portfolio</a> and <a href="http://www.github.com/iryanclarke">GitHub</a> profile!</h2>
+              <h2>I hope you liked this website, and I encourage you to check out my <a href="http://www.iryanclarke.com/portfolio.php">portfolio</a> and <a href="http://www.github.com/iryanclarke">GitHub</a> profile! </h2>
+              <p>You can also check out what kind of skills I have in detail on my  <a href="http://www.iryanclarke.com/about.php">about</a> page.</p>
               <p>I had a blast making and illustrating all of this, and I hope to be able to work for you guys doing Front-End web development soon!</p>
               <p>&nbsp;</p>
             </div>
