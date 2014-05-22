@@ -92,6 +92,7 @@
             <div class="content right">
               <h2>Be part of an awesome work environment</h2>
               <p>Shopify's work atmosphere and offices promote the most efficient and enjoyable workplace possible! I've visited the Shopify HQ in Ottawa to attend JavaScript and Montly Web Developer meetups, and I have always been impressed at how creative and inspiring the space is.</p>
+              <p>The space really allows people to relax, sit back and let creativity and productivity flow! </p>
               <p>&nbsp;</p>
             </div>
             <div class="clear"></div>
@@ -102,7 +103,8 @@
          <div class="row section5">  
             <div class="content left">
               <h2>I want to make Shopify even better</h2>
-              <p>Keep scrolling and you'll find out!</p>
+              <p>Shopify is already growing at a huge rate, as I know you recently surpassed 100,000 online stores! </p>
+              <p>I want to put my skills and love for web development toward making Shopify an even bigger, more successful company that is renound for everything they do. </p>
               <p>&nbsp;</p>
             </div> 
             <div class="img right">
@@ -129,16 +131,12 @@
 
 
       <section class="7"> 
-         <div class="row section7">   
-            <div class="img left">
-                <img src="img/why-stickman.png">
-            </div>   
-            <div class="content right">
-              <h2>I want to make Shopify even better</h2>
-              <p>Keep scrolling and you'll find out!</p>
+         <div class="row section7"> 
+            <div class="centered">
+              <h2>I hope you liked this website, and I encourage you to check out my <a href="http://www.iryanclarke.com/portfolio.php">portfolio</a> and <a href="http://www.github.com/iryanclarke">GitHub</a> profile!</h2>
+              <p>I had a blast making and illustrating all of this, and I hope to be in touch soon!</p>
               <p>&nbsp;</p>
             </div>
-            <div class="clear"></div>
         </div>    
       </section>  
 

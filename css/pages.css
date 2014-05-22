@@ -64,7 +64,6 @@ table {
     0. HACKS, DEFAULTS & OVERRIDES 
 
 \*----------------------------------------------------------*/
-/*------------------- Extended base styles  ---------------------*/
 body {
   line-height: 1;
   background-repeat: no-repeat;
@@ -103,6 +102,16 @@ h3 {
   font-weight: bold;
   color: #333; }
 
+a, a:visited {
+  color: #3F5765;
+  -webkit-transition: color 400ms ease-in;
+  -moz-transition: color 400ms ease-in;
+  transition: color 400ms ease-in;
+  text-decoration: none; }
+
+a:focus, a:hover {
+  color: #2B3A42; }
+
 /*----------------------------------------------------------*\
 
     1. CONTENT STYLING
@@ -124,6 +133,16 @@ section {
     transform: translate(0%, -50%); }
   section .left, section .right {
     margin-left: 100px; }
+  section .centered {
+    width: 50%;
+    margin: auto;
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%); }
   section .img {
     position: relative;
     float: left;
