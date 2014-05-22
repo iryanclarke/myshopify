@@ -73,6 +73,7 @@
              <div class="content left">
                 <h2>I want to be part of an awesome team!</h2>
                 <p>A team that cares as much as I do about the work they do on a daily basis. To me, web development means more than just a day job and what pays the bills: it's what I love to do!</p>
+                <p>I know that being a part of either the design team, performance team or analytics team would be an amazing experience to work with the best and the brightest on topics that interest me!</p>
                 <p>Being around people who also care and love their jobs gives me drive to constantly better myself and my professional skills.</p>
                 <p>&nbsp;</p>
             </div>
@@ -135,7 +136,7 @@
          <div class="row section7"> 
             <div class="centered">
               <h2>I hope you liked this website, and I encourage you to check out my <a href="http://www.iryanclarke.com/portfolio.php">portfolio</a> and <a href="http://www.github.com/iryanclarke">GitHub</a> profile!</h2>
-              <p>I had a blast making and illustrating all of this, and I hope to be in touch soon!</p>
+              <p>I had a blast making and illustrating all of this, and I hope to be able to work for you guys doing Front-End web development soon!</p>
               <p>&nbsp;</p>
             </div>
         </div>    
