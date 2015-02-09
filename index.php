@@ -39,17 +39,17 @@
     <div class="main">
       <section class="1">  
         <div class="row section1">
-           <div class="content left">
-                <h1>Hi,</h1>
-                <h2>I'm Ian!&nbsp;&nbsp;&nbsp;(That's me! --->)</h2>
-                <h3>Here is a little bit about me:</h3>
-                <p>I'm a 20 year old Carleton University student who loves web development, illustration and speedy performance. I always like to keep things as simple as possible: simple, but effective! </p>
-                <p>I love working on projects with people and collaborating everyone's strengths to create incredible things.</p>
-                <p>&nbsp;</p>
-            </div>
-            <div class="img right">
+           <div class="img left">
                 <img src="img/intro-stickman.png">
             </div> 
+           <div class="content right">
+                <h1>Hi,</h1>
+                <h2>(again) I'm Ian!&nbsp;&nbsp;&nbsp;(That's me! <---)</h2>
+                <h3>Even more about me! (If you're looking for my last '<a href="iryanclarke.com/myshopify">myshopify</a>' there it is)</h3>
+                <p>I'm a 21 year old Carleton University student who loves web development, speedy performance, and open source. I always like to keep things as simple as possible: simple, but effective! </p>
+                <p>I love giving back to the web dev community by giving talks, organizing events and contributing to my favorite open source projects!</p>
+                <p>&nbsp;</p>
+            </div>
             <div class="clear"></div>
         </div>    
       </section>   
@@ -58,15 +58,16 @@
 
       <section class="2"> 
         <div class="row section2"> 
-            <div class="img left">
-                <img src="img/why-stickman.png">
-            </div>   
-            <div class="content right">
+            <div class="content left">
               <h1>So,</h1>
-              <h2>you might ask; why do I want to work at Shopify?</h2>
-              <p>That's a good question, and i'll tell you why :)</p>
+              <h2>what makes Shopify the place I still want to work at?</h2>
+              <p>&nbsp;</p>
+              <p>&nbsp;</p>
               <p>&nbsp;</p>
             </div>
+            <div class="img right">
+                <img src="img/why-stickman.png">
+            </div>   
             <div class="clear"></div>      
         </div> 
       </section>   
@@ -75,10 +76,10 @@
       <section class="3"> 
          <div class="row section3">   
              <div class="content left">
-                <h2>I want to be part of an awesome team!</h2>
-                <p>A team that cares as much as I do about the work they do on a daily basis. To me, web development means more than just a day job and what pays the bills: it's what I love to do!</p>
-                <p>I know that being a part of either the design team, performance team or analytics team would be an amazing experience to work with the best and the brightest on topics that interest me!</p>
-                <p>Being around people who also care and love their jobs gives me drive to constantly better myself and my professional skills.</p>
+                <h2>I want to be with people who are like me</h2>
+                <p>After going to even more meetups, such as Refresh Ottawa ones organized by Shopify team members, I was impressed by how much they like teaching and speaking to people who are interested in web development!</p>
+                <p>I, similarly, have had a blast organizing and speaking at workshops at Carleton that were for students in my program who were interested in web development.</p>
+                <p>The workshops were started by myself and some alumni as we felt our program lacked any further instruction for web development!</p>
                 <p>&nbsp;</p>
             </div>
             <div class="img right">
@@ -88,28 +89,12 @@
         </div>    
       </section>   
 
-
       <section class="4"> 
-         <div class="row section4">   
-            <div class="img left">
-                <img src="img/shopify-stickman.png">
-            </div>   
-            <div class="content right">
-              <h2>Be part of an awesome work environment</h2>
-              <p>Shopify's work atmosphere and offices promote the most efficient and enjoyable workplace possible! I've visited the Shopify HQ in Ottawa to attend JavaScript and Montly Web Developer meetups, and I have always been impressed at how creative and inspiring the space is.</p>
-              <p>The space really allows people to relax, sit back and let creativity and productivity flow! </p>
-              <p>&nbsp;</p>
-            </div>
-            <div class="clear"></div>
-        </div>    
-      </section>   
-
-      <section class="5"> 
-         <div class="row section5">  
+         <div class="row section4">  
             <div class="content left">
-              <h2>I want to make Shopify even better</h2>
-              <p>Shopify is already growing at a huge rate, as I know you recently surpassed 100,000 online stores! </p>
-              <p>I want to put my skills and love for web development toward making Shopify an even bigger, more successful company that is renound for everything they do. </p>
+              <h2>I want to make Shopify the best it can be</h2>
+              <p>With Shopify growing at a rapid pace, I want to join the many new people that come aboard each day and make Shopify world class!</p>
+              <p>I will use my current expertise and expertise that I learn from fellow dev's to push code that is tight as a drum, and get lightning fast at doing it!</p>
               <p>I have some awesome idea's on how to improve Shopify, such as using <a href="http://usablica.github.io/intro.js/">Intro JS</a> to make some awesome walkthroughs of the Shopify admin panel!</p>
               <p>&nbsp;</p>
             </div> 
@@ -120,28 +105,27 @@
         </div>    
       </section>   
 
-      <section class="6"> 
-         <div class="row section6">   
+      <section class="5"> 
+         <div class="row section5">   
             <div class="img left">
                 <img src="img/stickman-shopify-awesomeness.png">
             </div>   
             <div class="content right">
-              <h2>Why am I a good fit for Shopify?</h2>
-              <p>I believe my creativity and passion for Web Development will fit right in with Shopify's culture and employees, and my desire to solve challenging problems will greatly benefit Shopify's employees and business!</p>
-              <p>I know that Shopify loves the creativity and energy from young, fresh minds and I love talking with fellow developers about what's hip and happening in the tech and web development world. I've had the experience to do so at a few web meetups! </p>
-              <p>&nbsp;</p>
+              <h2>I want to learn from the best</h2>
+              <p>I have heard from alumni from my program that working at Shopify has been the best learning experience of their life.</p>
+              <p>I have read that no matter what, Shopify strives to make 4 months of experience worth its weight in years of experience anywhere else. </p>
+              <p>Shopify will for sure be the best learning and life experience for me!</p>
             </div>
             <div class="clear"></div>
         </div>    
       </section>  
 
 
-      <section class="7"> 
-         <div class="row section7"> 
+      <section class="6"> 
+         <div class="row section6"> 
             <div class="centered">
-              <h2>I hope you liked this website, and I encourage you to check out my <a href="http://www.iryanclarke.com/portfolio.php">portfolio</a> and <a href="http://www.github.com/iryanclarke">GitHub</a> profile! </h2>
-              <p>You can also check out what kind of skills I have in detail on my  <a href="http://www.iryanclarke.com/about.php">about</a> page.</p>
-              <p>I had a blast making and illustrating all of this, and I hope to be able to work for you guys doing Front-End web development soon!</p>
+              <h2>I hope you liked this website and the last, and I encourage you to check out my <a href="http://www.iryanclarke.com/portfolio.php">portfolio</a> and now my <a href="https://speakerdeck.com/iryanclarke">speakerdeck</a> profile! </h2>
+              <p>You can also check out what kind of stack I use on a day to day basis on my <a href="http://www.iryanclarke.com/about.php">about</a> page.</p>
               <p>&nbsp;</p>
             </div>
         </div>    
