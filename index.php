@@ -12,14 +12,26 @@
          \/\         /\/
            (vv)-=-(vv)
 
+                                  Who? who?
+          __________-------____                 ____-------__________
+          \------____-------___--__---------__--___-------____------/
+           \//////// / / / / / \   _-------_   / \ \ \ \ \ \\\\\\\\/
+             \////-/-/------/_/_| /___   ___\ |_\_\------\-\-\\\\/
+               --//// / /  /  //|| (o)\ /(o) ||\\  \  \ \ \\\\--
+                    ---__/  // /| \_  /V\  _/ |\ \\  \__---
+                         -//  / /\_ ------- _/\ \  \\-
+                           \_/_/ /\---------/\ \_\_/
+                               ----\   |   /----
+                                    | -|- |
+                                   /   |   \
+                                  (v v) (v v) 
 
  --> 
-<html xmlns="http://www.w3.org/1999/xhtml">
   <head>
       <meta charset="utf-8" />
       <meta id="Viewport" name="viewport" width="initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no"> 
       <meta name="author" content="Ian R Clarke">
-      <meta name="dcterms.rightsHolder" content="© 2014 Ian Ryan Clarke">
+      <meta name="dcterms.rightsHolder" content="© 2015 Ian Ryan Clarke">
       <meta name="description" content="Come here if you want to know why I want to work at Shopify :)">
 
       <title>Shopify - Only the best place to work</title>
@@ -76,8 +88,8 @@
       <section class="3"> 
          <div class="row section3">   
              <div class="content left">
-                <h2>I want to be with people who are like me</h2>
-                <p>After going to even more meetups, such as Refresh Ottawa ones organized by Shopify team members, I was impressed by how much they like teaching and speaking to people who are interested in web development!</p>
+                <h2>I want work with people who are like me</h2>
+                <p>After going to even more meetups, such as Refresh Ottawa and others organized by Shopify team members, I was impressed by how much they like teaching and speaking to people who are interested in web development!</p>
                 <p>I, similarly, have had a blast organizing and speaking at workshops at Carleton that were for students in my program who were interested in web development.</p>
                 <p>The workshops were started by myself and some alumni as we felt our program lacked any further instruction for web development!</p>
                 <p>&nbsp;</p>
